@@ -6,6 +6,7 @@ the awesome list of cross platform apps solutions
 + [nativescript](https://github.com/nativescript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript.
 + [CrossAPP](https://github.com/9miao/CrossApp) - use Cocos2d-X for app development
 + [Xamarin](https://developer.xamarin.com/) - use C# to build apps
++ [MyAppConverter](https://myappconverter.com/) - Instantly convert your native mobile application code to other platforms, download it and finish it yourself.
 + [QT](http://www.qt.io/mobile-app-development/) - Qt for mobile apps
 + [JUniversal](http://juniversal.org/) -Native,  cross platform,  mobile apps in Java
 + [Kivy](http://kivy.org/#home) - cross platform app use python
