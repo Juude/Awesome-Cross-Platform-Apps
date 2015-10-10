@@ -8,6 +8,7 @@ the awesome list of cross platform apps solutions
 + [Xamarin](https://developer.xamarin.com/) - use C# to build apps
 + [QT](http://www.qt.io/mobile-app-development/) - Qt for mobile apps
 + [JUniversal](http://juniversal.org/) -Native,  cross platform,  mobile apps in Java
++ [Kivy](http://kivy.org/#home) - cross platform app use python
 
 ##Hybrid
 + [CrossWalk](https://github.com/crosswalk-project/crosswalk) - use its own  web runtime  instead of WebView
