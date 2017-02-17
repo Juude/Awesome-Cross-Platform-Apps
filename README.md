@@ -10,6 +10,8 @@ the awesome list of cross platform apps solutions
 + [QT](http://www.qt.io/mobile-app-development/) - Qt for mobile apps
 + [JUniversal](http://juniversal.org/) -Native,  cross platform,  mobile apps in Java
 + [Kivy](http://kivy.org/#home) - cross platform app use python
++ [Weex](https://github.com/alibaba/weex/) - alibaba's solution
++ [Flutter](https://github.com/flutter/flutter) - Flutter is a new way to build high-performance, cross-platform mobile apps.
 
 ##Hybrid
 + [CrossWalk](https://github.com/crosswalk-project/crosswalk) - use its own  web runtime  instead of WebView
