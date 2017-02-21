@@ -26,3 +26,6 @@ the awesome list of cross platform apps solutions
 
 ###IDE
 + [IntelXDK](https://software.intel.com/en-us/android/blogs/2014/01/02/developing-android-apps-using-intel-xdk-and-threejs) - support developement through CrossWalk
+
+### Follow
++ [微博](http://weibo.com/evoluter) - 阿里巴巴、支付宝、菜鸟招聘工程师、专家等，有意可以在Weibo私信我。
