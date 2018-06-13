@@ -12,6 +12,7 @@ the awesome list of cross platform apps solutions
 + [Kivy](http://kivy.org/#home) - cross platform app use python
 + [Weex](https://github.com/alibaba/weex/) - alibaba's solution
 + [Flutter](https://github.com/flutter/flutter) - Flutter is a new way to build high-performance, cross-platform mobile apps.
++ [Haxe](https://haxe.org/) - cross platform toolkit for Android/iOS/macOS/Windows/Linux
 
 ## Hybrid
 + [CrossWalk](https://github.com/crosswalk-project/crosswalk) - use its own  web runtime  instead of WebView
